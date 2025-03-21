@@ -42,7 +42,9 @@
 1. After full assembly, clone the python code from https://github.com/accessible-eyedrop/accessible-eyedrop-RaspPi to the Rasp Pi, follow the instruction in the repo to run the code on the Pi.
 2. Toggle on the LED strip and stepper motor power supply.
 3. Place the device over your eye, tilt your head backwards.
+
 ![use instruction](./img/linda.png)
+
 4. Push the button, the device should dispense one drop, and the Python backend will tell you whether it is a successful administration or not. If you also run our front-end code https://github.com/accessible-eyedrop/accessible-eyedrop-Frontend, the data can be shown on the front-end.
 
 HOW-TO-USE video [demo1](./video/dispense.mp4) and [demo2](./video/workflow.mp4).
